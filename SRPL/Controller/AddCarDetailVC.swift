@@ -44,6 +44,9 @@ class AddCarDetailVC: UIViewController, UITextFieldDelegate{
     var picker: UIPickerView!
     let toolBar = UIToolbar()
     override func viewDidLoad() {
+
+        // chnages upload or not check
+
         super.viewDidLoad()
         self.navigationController?.navigationBar.isHidden = true
 
