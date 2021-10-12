@@ -140,7 +140,6 @@
 				1889552526F0B5F900D8DEC4 /* Controller */,
 				1889552626F0B60900D8DEC4 /* View */,
 				1889552726F0B61F00D8DEC4 /* Model */,
-				1889552826F0B63300D8DEC4 /* StoryBoard */,
 				1889551626F0B59B00D8DEC4 /* Main.storyboard */,
 				1889551926F0B5A200D8DEC4 /* Assets.xcassets */,
 				1889551B26F0B5A200D8DEC4 /* LaunchScreen.storyboard */,
@@ -186,13 +185,6 @@
 				18D4AC5E26F9F4B40097589E /* VehicleTypeModel.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		1889552826F0B63300D8DEC4 /* StoryBoard */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = StoryBoard;
 			sourceTree = "<group>";
 		};
 		3C34E9BD2222EEB4764E6756 /* Pods */ = {
