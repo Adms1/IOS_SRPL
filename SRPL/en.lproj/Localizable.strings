@@ -1,0 +1,78 @@
+
+"srpl_Personal Details" = "Please add your personal details";
+"srpl_Name" = "Name";
+"srpl_Phone" = "Phone";
+"srpl_City" = "City";
+"srpl_State" = "State";
+"srpl_Pincode" = "Pincode";
+"srpl_Add Car Details" = "Add Vehicle Details";
+"srpl_Car Details" = "Car Details";
+"srpl_Make" = "Make";
+"srpl_Model" = "Model";
+"srpl_Variant" = "Variant";
+"srpl_Select Fuel" = "Select Fuel";
+"srpl_Petrol" = "Petrol";
+"srpl_Diesel" = "Diesel";
+"srpl_Electric" = "Electric";
+"srpl_CNG" = "CNG";
+
+"srpl_Year" = "Year";
+"srpl_VehicleNo" = "Vehicle No.";
+"srpl_Accident" = "Was it in any accident?";
+"srpl_Select Fuel" = "Select Fuel";
+"srpl_police_case_pending" = "Is there any police case pending?";
+"srpl_RC_Book" = "Do you have origional RC Book?";
+"srpl_Add Photos" = "Add Photos";
+"srpl_Get_Quote" = "Get Quote";
+"srpl_Back"="Back";
+
+"srpl_validation1"="Please enter your name";
+"srpl_validation2"="Please enter mobile number";
+"srpl_validation3"="Please enter valid mobile number";
+"srpl_validation4"="Please enter city name";
+"srpl_validation5"="Please enter a valid pincode";
+"srpl_validation6"="Please enter state name";
+
+"srpl_validation7"="Please enter make";
+"srpl_validation8"="Please enter vehicle name";
+"srpl_validation9"="Plese enter variant";
+"srpl_validation10"="Please enter vehicle year";
+"srpl_validation11"="Please enter vehicle fuel type";
+"srpl_validation12"="Please enter vehicle number";
+"srpl_fuel_type"="Please select Fuel type";
+"srpl_Vehicle"="Select Vehicle";
+
+"srpl_add_image_validation"="Please upload atleast one image";
+"srpl_validation13"="successfully uploaded your details.";
+"srpl_validation14"="Image deleted successfully";
+
+"srpl_car"="Car Details";
+"srpl_Bus"="Bus Details";
+"srpl_Truck"="Truck Details";
+"srpl_2Wheelers"="2 Wheelers Details";
+"srpl_3Wheelers"="3 Wheelers Details";
+
+"srpl_validation15"="mobile number already exists";
+"srpl_validation16"="Choose Image";
+"srpl_camera"="Camera";
+"srpl_cancel"="Cancel";
+"srpl_done"="Done";
+"srpl_ok"="OK";
+
+"srpl_PopUp_title"="Thank you for filling out the details.";
+
+"srpl_car_lan"="Car";
+"srpl_car_bus"="Bus";
+"srpl_car_truck"="Truck";
+"srpl_car_2wheel"="2 Wheelers";
+"srpl_car_3wheel"="3 Wheelers";
+"srpl_please_add"="Please add ";
+
+
+
+
+//"srpl_petrol" = "Petrol";
+//"srpl_cng"="CNG":
+//"srpl_Diesel"="Diesel";
+//"srpl_electric"="Elecric";
+

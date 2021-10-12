@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3HP-t0-vlZ"; */
+"3HP-t0-vlZ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "5cD-pB-O6g"; */
+"5cD-pB-O6g.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "ગુજરાતી"; ObjectID = "5x5-hR-Bf4"; */
+"5x5-hR-Bf4.normalTitle" = "ગુજરાતી";
+
+/* Class = "UIButton"; normalTitle = "हिंदी"; ObjectID = "DBn-U8-O48"; */
+"DBn-U8-O48.normalTitle" = "हिंदी";
+
+/* Class = "UITextField"; placeholder = "Car Number"; ObjectID = "HRx-Oq-B0L"; */
+"HRx-Oq-B0L.placeholder" = "Vehicle No";
+
+/* Class = "UIButton"; normalTitle = "ADD PHOTOS"; ObjectID = "J57-Fm-GYe"; */
+"J57-Fm-GYe.normalTitle" = "Add Photos >>";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "JIj-Hg-iJo"; */
+"JIj-Hg-iJo.placeholder" = "Year";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "MVd-Hj-TYp"; */
+"MVd-Hj-TYp.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "NwR-it-aaE"; */
+"NwR-it-aaE.normalTitle" = "+";
+
+/* Class = "UITextField"; placeholder = "Make"; ObjectID = "SlN-o1-9AR"; */
+"SlN-o1-9AR.placeholder" = "Make";
+
+/* Class = "UILabel"; text = "Is there any police case pending?"; ObjectID = "Uey-8B-g5K"; */
+"Uey-8B-g5K.text" = "Is there any police case pending?";
+
+/* Class = "UITextField"; placeholder = "Varient"; ObjectID = "YEJ-NV-2zX"; */
+"YEJ-NV-2zX.placeholder" = "Variant";
+
+/* Class = "UITextField"; placeholder = "Fuel"; ObjectID = "ZN0-m8-bVw"; */
+"ZN0-m8-bVw.placeholder" = "Fuel";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "de7-3b-l3B"; */
+"de7-3b-l3B.placeholder" = "City";
+
+/* Class = "UIButton"; normalTitle = "ADD CAR DETAILS"; ObjectID = "gj6-vG-Kdo"; */
+"gj6-vG-Kdo.normalTitle" = "Add Vehicle Details >>";
+
+/* Class = "UITextField"; placeholder = "Model"; ObjectID = "hsV-fN-fIa"; */
+"hsV-fN-fIa.placeholder" = "Model";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iqO-4Y-1dh"; */
+"iqO-4Y-1dh.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "nMz-Nb-trc"; */
+"nMz-Nb-trc.placeholder" = "Pincode";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "orQ-FN-XcC"; */
+"orQ-FN-XcC.normalTitle" = "English";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "ozc-i6-TwK"; */
+"ozc-i6-TwK.placeholder" = "State";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "p1w-2F-mhI"; */
+"p1w-2F-mhI.placeholder" = "Phone";
+
+/* Class = "UILabel"; text = "Is it in working conditions?"; ObjectID = "tii-FZ-TZR"; */
+"tii-FZ-TZR.text" = "Is it in working condition?";
+
+/* Class = "UILabel"; text = "Do you have origional RC Book?"; ObjectID = "ulv-vf-Wrh"; */
+"ulv-vf-Wrh.text" = "Do you have origional RC Book?";
+
+/* Class = "UILabel"; text = "Was it in any accident?"; ObjectID = "vk7-0v-7IN"; */
+"vk7-0v-7IN.text" = "Was it in any accident?";

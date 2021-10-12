@@ -1,0 +1,75 @@
+
+"srpl_Personal Details" = "કૃપા કરીને તમારી વ્યક્તિગત વિગતો ઉમેરો";
+"srpl_Name" = "નામ";
+"srpl_Phone" = "ફોન";
+"srpl_City" = "શહેર";
+"srpl_State" = "રાજ્ય";
+"srpl_Pincode" = "પીન કોડ";
+"srpl_Add Car Details" = "વાહનની વિગતો ઉમેરો";
+"srpl_Car Details" = "કારની વિગતો";
+"srpl_Make" = "બનાવો";
+"srpl_Model" = "મોડેલ";
+"srpl_Variant" = "ચલ";
+"srpl_Select Fuel" = "બળતણ પસંદ કરો";
+"srpl_Petrol" = "પેટ્રોલ";
+"srpl_Diesel" = "ડીઝલ";
+"srpl_Electric" = "ઇલેક્ટ્રિક";
+"srpl_CNG" = "CNG";
+
+"srpl_Year" = "વર્ષ";
+"srpl_VehicleNo" = "વાહન નં.";
+"srpl_Accident" = "શું તે કામ કરવાની સ્થિતિમાં છે?";
+"srpl_Select Fuel" = "શું તે કોઈ અકસ્માતમાં હતો?";
+"srpl_police_case_pending" = "શું કોઈ પોલીસ કેસ પેન્ડિંગ છે?";
+"srpl_RC_Book" = "શું તમારી પાસે મૂળ આરસી બુક છે?";
+"srpl_Add Photos" = "ફોટા ઉમેરો";
+"srpl_Get_Quote" = "ક્વોટ મેળવો";
+"srpl_Back"="પાછળ";
+
+"srpl_validation1"="કૃપા કરીને તમારું નામ દાખલ કરો";
+"srpl_validation2"="કૃપા કરીને મોબાઇલ નંબર દાખલ કરો";
+"srpl_validation3"="કૃપા કરીને માન્ય મોબાઇલ નંબર દાખલ કરો";
+"srpl_validation4"="કૃપા કરીને શહેરનું નામ દાખલ કરો";
+"srpl_validation5"="કૃપા કરીને માન્ય પિનકોડ દાખલ કરો";
+"srpl_validation6"="કૃપા કરીને રાજ્યનું નામ દાખલ કરો";
+
+"srpl_validation7"="મેક દાખલ કરો";
+"srpl_validation8"="કૃપા કરીને વાહનનું નામ દાખલ કરો";
+"srpl_validation9"="કૃપા કરીને ચલ દાખલ કરો";
+"srpl_validation10"="કૃપા કરીને વાહન વર્ષ દાખલ કરો";
+"srpl_validation11"="કૃપા કરીને વાહનના બળતણનો પ્રકાર દાખલ કરો";
+"srpl_validation12"="કૃપા કરીને વાહન નંબર દાખલ કરો";
+"srpl_fuel_type"="કૃપા કરીને બળતણનો પ્રકાર પસંદ કરો";
+"srpl_Vehicle"="વાહન પસંદ કરો";
+"srpl_add_image_validation"="કૃપા કરીને ઓછામાં ઓછી એક છબી અપલોડ કરો";
+"srpl_validation13"="તમારી વિગતો સફળતાપૂર્વક અપલોડ કરી.";
+"srpl_validation14"="છબી સફળતાપૂર્વક દૂર કરી";
+
+"srpl_car"="કારની વિગતો";
+"srpl_Bus"="બસની વિગતો";
+"srpl_Truck"="ટ્રકની વિગતો";
+"srpl_2Wheelers"="2 વ્હીલર્સની વિગતો";
+"srpl_3Wheelers"="3 વ્હીલર્સની વિગતો";
+
+"srpl_validation15"="મોબાઇલ નંબર પહેલેથી જ અસ્તિત્વમાં છે";
+"srpl_validation16"="છબી પસંદ કરો";
+"srpl_camera"="કેમેરા";
+"srpl_cancel"="રદ કરો";
+"srpl_done"="થઈ ગયું";
+
+"srpl_PopUp_title"="વિગતો ભરવા બદલ આભાર.";
+"srpl_ok"="બરાબર";
+
+"srpl_car_lan"="કાર";
+"srpl_car_bus"="બસ";
+"srpl_car_truck"="ટ્રક";
+"srpl_car_2wheel"="2 વ્હીલર્સ";
+"srpl_car_3wheel"="3 વ્હીલર્સ";
+"srpl_please_add"="કૃપા કરીને ઉમેરો ";
+
+
+
+//"srpl_petrol" = "પેટ્રોલ";
+//"srpl_cng"="CNG":
+//"srpl_Diesel"="ડીઝલ";
+//"srpl_electric"="ઇલેક્ટ્રિક";

@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3HP-t0-vlZ"; */
+"3HP-t0-vlZ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "5cD-pB-O6g"; */
+"5cD-pB-O6g.placeholder" = "नाम";
+
+/* Class = "UIButton"; normalTitle = "ગુજરાતી"; ObjectID = "5x5-hR-Bf4"; */
+"5x5-hR-Bf4.normalTitle" = "ગુજરાતી";
+
+/* Class = "UIButton"; normalTitle = "हिंदी"; ObjectID = "DBn-U8-O48"; */
+"DBn-U8-O48.normalTitle" = "हिंदी";
+
+/* Class = "UITextField"; placeholder = "Car Number"; ObjectID = "HRx-Oq-B0L"; */
+"HRx-Oq-B0L.placeholder" = "वाहन संख्या";
+
+/* Class = "UIButton"; normalTitle = "ADD PHOTOS"; ObjectID = "J57-Fm-GYe"; */
+"J57-Fm-GYe.normalTitle" = "तस्वीरें जोडो >>";
+
+/* Class = "UITextField"; placeholder = "Year"; ObjectID = "JIj-Hg-iJo"; */
+"JIj-Hg-iJo.placeholder" = "वर्ष";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "MVd-Hj-TYp"; */
+"MVd-Hj-TYp.normalTitle" = "ठीक है";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "NwR-it-aaE"; */
+"NwR-it-aaE.normalTitle" = "+";
+
+/* Class = "UITextField"; placeholder = "Make"; ObjectID = "SlN-o1-9AR"; */
+"SlN-o1-9AR.placeholder" = "निर्माण";
+
+/* Class = "UILabel"; text = "Is there any police case pending?"; ObjectID = "Uey-8B-g5K"; */
+"Uey-8B-g5K.text" = "क्या कोई पुलिस मामला लंबित है?";
+
+/* Class = "UITextField"; placeholder = "Varient"; ObjectID = "YEJ-NV-2zX"; */
+"YEJ-NV-2zX.placeholder" = "प्रकार";
+
+/* Class = "UITextField"; placeholder = "Fuel"; ObjectID = "ZN0-m8-bVw"; */
+"ZN0-m8-bVw.placeholder" = "ईंधन का चयन करें";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "de7-3b-l3B"; */
+"de7-3b-l3B.placeholder" = "शहर";
+
+/* Class = "UIButton"; normalTitle = "ADD CAR DETAILS"; ObjectID = "gj6-vG-Kdo"; */
+"gj6-vG-Kdo.normalTitle" = "वाहन विवरण जोड़ें >>";
+
+/* Class = "UITextField"; placeholder = "Model"; ObjectID = "hsV-fN-fIa"; */
+"hsV-fN-fIa.placeholder" = "माडेल";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iqO-4Y-1dh"; */
+"iqO-4Y-1dh.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "nMz-Nb-trc"; */
+"nMz-Nb-trc.placeholder" = "पिन कोड";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "orQ-FN-XcC"; */
+"orQ-FN-XcC.normalTitle" = "English";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "ozc-i6-TwK"; */
+"ozc-i6-TwK.placeholder" = "राज्य";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "p1w-2F-mhI"; */
+"p1w-2F-mhI.placeholder" = "फ़ोन";
+
+/* Class = "UILabel"; text = "Is it in working conditions?"; ObjectID = "tii-FZ-TZR"; */
+"tii-FZ-TZR.text" = "क्या यह काम करने की स्थिति में है?";
+
+/* Class = "UILabel"; text = "Do you have origional RC Book?"; ObjectID = "ulv-vf-Wrh"; */
+"ulv-vf-Wrh.text" = "क्या आपके पास ओरिजिनल आरसी बुक है?";
+
+/* Class = "UILabel"; text = "Was it in any accident?"; ObjectID = "vk7-0v-7IN"; */
+"vk7-0v-7IN.text" = "क्या यह किसी दुर्घटना में था?";
